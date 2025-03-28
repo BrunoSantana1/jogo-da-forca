@@ -20,11 +20,11 @@ Um jogo da forca desenvolvido em Java. Tente adivinhar a palavra antes de esgota
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/BrunoSantana1/jogo_da_forca.git
+   git clone https://github.com/BrunoSantana1/jogo-da-forca.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd jogo_da_forca
+   cd jogo-da-forca/src
    ```
 3. Compile o código:
    ```bash
